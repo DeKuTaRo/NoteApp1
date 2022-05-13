@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mobile/LastTerm/RoomDatabase/exe/app/src/main/res/drawable/ic_pin.xml" value="0.2465" />
+        <entry key="..\:/Mobile/LastTerm/RoomDatabase/exe/app/src/main/res/drawable/ic_save.xml" value="0.2465" />
+        <entry key="..\:/Mobile/LastTerm/RoomDatabase/exe/app/src/main/res/layout/activity_main.xml" value="0.24635416666666668" />
+        <entry key="..\:/Mobile/LastTerm/RoomDatabase/exe/app/src/main/res/layout/activity_notes_taker.xml" value="0.24635416666666668" />
+        <entry key="..\:/Mobile/LastTerm/RoomDatabase/exe/app/src/main/res/layout/notes_list.xml" value="0.2453125" />
+        <entry key="..\:/Mobile/LastTerm/RoomDatabase/exe/app/src/main/res/menu/popup_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
